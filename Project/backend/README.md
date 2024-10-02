@@ -1,4 +1,4 @@
-# Backend for Hiking
+# Backend for Medical Reality
 
 ## Preparation
 - Install postgresql and run it
